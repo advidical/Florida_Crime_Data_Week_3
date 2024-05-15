@@ -130,6 +130,9 @@ venv.bak/
 .DS_Store
 **/.DS_Store
 
+# Dataset files
+*.csv
+
 # Spyder project settings
 .spyderproject
 .spyproject
