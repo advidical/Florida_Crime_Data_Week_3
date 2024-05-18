@@ -1,3 +1,23 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.DS_Store
+**/.DS_Store
+
+# Dataset files
+*.csv
+Generated_Data/
+
+#Specific Files/Folder in Project to ignore
+Old_Notebook_Files/
+Old_Files/
+README_GUIDE
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -118,20 +138,6 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-.DS_Store
-**/.DS_Store
-
-# Dataset files
-*.csv
 
 # Spyder project settings
 .spyderproject
