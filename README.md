@@ -1,4 +1,4 @@
-# Week_3 - Florida Crime Statistics
+# Week_3 - Florida Crime Statistics 
 ### *Authors: Alex Lopez & Katherine Granados*
 This project analyzes Florida Crime Reporting data from the Florida Department of Law Enforcement 
 through two reporting sources: The Florida Convictions History Dashboard and 
